@@ -1,0 +1,1 @@
+This specific document being written for a proposed initiative within Sydney University, but you can clone or copy/paste this to create a broader one
