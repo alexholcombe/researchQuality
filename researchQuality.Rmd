@@ -5,6 +5,10 @@ date: '`r format(Sys.Date(), "%B %d, %Y")`'
 output: html_document
 ---
 
+A doc for a proposed initiative within Sydney Uni, but others can copy/paste for broader initiatives.
+
+## Context
+
 Poor quality research has led to a reproducibiity crisis
 
 The current incentives aren't helping.
@@ -38,6 +42,8 @@ Current incentives in science can lead researchers to focus on:
 http://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596\
 
 ## Initiatives elsewhere to address this
+
+OSF [Resources for changing culture including creating open science committee](https://osf.io/jtqbp/)
 
 [Opinion piece](http://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596) in Nature:
 "We currently request that reviewers assess how a field would be different without a candidate’s contributions, and survey a candidate’s accomplishments, scholarship and recognition. We should also explicitly ask reviewers whether they can describe attempts to build on a candidate’s work and any controversies involved in doing so. Our processes should encourage evaluators to say whether they feel candidates’ work is problematic or overstated, and whether it has been reproduced and broadly accepted. If not, they should say whether they believe widespread reproducibility is likely, or whether the work will advance the field in some other way."
