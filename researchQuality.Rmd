@@ -23,6 +23,8 @@ Current incentives in science can lead researchers to focus on:
 * High-prestige journals
 * Hoarding data rather than sharing it
 
+[Bullied into bad science](http://bulliedintobadscience.org/) ECRs: "are concerned about the desperate need for publishing reform to increase transparency, reproducibility, timeliness, and academic rigour of the production and dissemination of scholarly outputs (see Young et al. 2016, Smaldino & McElreath 2016)".
+ 
 ## What's good for science and its stakeholders
 
 * Quality research
