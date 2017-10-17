@@ -17,7 +17,7 @@ Current incentives have led to:
 * an excess of incremental, "safe" work at the expense of breakthroughs <!--Let's face it, do you feel comfortable taking risk on something new are you going to go for the sure thing -->
 * insufficient statistical power in many studies
 
-## What (currently) rewards individual researchers
+## What individual researchers are currently rewarded for
 
 * Citations
 * High-prestige journals
@@ -90,10 +90,9 @@ design results and design processes.
 A statement will do little by itself, but serves as a stake in the ground to push for initiatives that support quality research, e.g.:
 
   * Training for preregistration (necessary for p-values to be interpretable)
-  * Open access support and APC funds
   * Training in statistical power analysis
   * Sharing of data analysis code
-  
+  * Open access support and APC funds
 
 ## Proposal
 
@@ -113,4 +112,4 @@ We should strive to make the research we conduct high quality and reproducible. 
 * Sharing materials such as experiment code and questionnaires
 * Open access publication, so there are no barriers to fact-mining by machines nor to access by businesses, nonprofits, and researchers around the world
 
-Ethics integration with data sharing at time of application with default being shared, provid an explanation if do not
+Ethics integration with data sharing at time of application with default being published, provide an explanation if not to publish.
