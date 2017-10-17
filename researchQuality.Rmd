@@ -9,15 +9,15 @@ A doc for a proposed initiative within Sydney Uni, but others can copy/paste for
 
 ## Context
 
-Poor quality research has led to a reproducibiity crisis
+> “an academic career, in which a person is forced to produce scientific writings in great amounts, creates a danger of intellectual superficiality” - Albert Einstein
 
-The current incentives aren't helping.
+Current incentives have led to:
 
-Low statistical power
+* a reproducibiity crisis
+* an excess of incremental, "safe" work at the expense of breakthroughs <!--Let's face it, do you feel comfortable taking risk on something new are you going to go for the sure thing -->
+* insufficient statistical power in many studies
 
-## What's good for individual researchers
-
-Current incentives in science can lead researchers to focus on:
+## What (currently) rewards individual researchers
 
 * Citations
 * High-prestige journals
@@ -30,6 +30,7 @@ Current incentives in science can lead researchers to focus on:
 * Quality research
 * Research that isn't p-hacked
 <!--You can say that cheaters are gonna cheat regardless, but actually there are specific solutions, which I'll get to -->
+* Non-incremental, creative work that takes a lot of time 
 * Reproducible research
 * Data sharing for confirmation and re-use
 * Open access
@@ -43,12 +44,16 @@ Current incentives in science can lead researchers to focus on:
 
 http://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596\
 
+## Existing university policies
+
 ## Initiatives elsewhere to address this
 
 OSF [Resources for changing culture including creating open science committee](https://osf.io/jtqbp/)
 
 [Opinion piece](http://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596) in Nature:
 "We currently request that reviewers assess how a field would be different without a candidate’s contributions, and survey a candidate’s accomplishments, scholarship and recognition. We should also explicitly ask reviewers whether they can describe attempts to build on a candidate’s work and any controversies involved in doing so. Our processes should encourage evaluators to say whether they feel candidates’ work is problematic or overstated, and whether it has been reproduced and broadly accepted. If not, they should say whether they believe widespread reproducibility is likely, or whether the work will advance the field in some other way."
+
+Royal Society Research Integrity statement: "This includes researchers making data and outputs available via searchable open repositories"
 
 ![Eindhoven Code of Scientific Conduct](Tu_EindhovenCodeOfScientificConduct.jpg)
 <!--From https://twitter.com/annemscheel/status/900383505972178944 -->
@@ -58,14 +63,19 @@ except from the Eindhoven code:
 > 3. Openness
 Open and unbiased communication is essential for science and engineering. For academic staff and
 students, this entails that:
+
 • They contribute actively to an academic climate in which insights and criticisms are welcome
 from all, regardless of academic rank and personal characteristics.
+
 • They give room to others to develop or take their own intellectual stance in research, design and
 education.
+
 • Whenever they publish research results, they present their research such that its results may in
 principle be replicated.
+
 • They make accessible, after publication, all information needed for intersubjective testing of
 design results and design processes.
+
 • They make accessible, after publication, research data for re-use by colleagues.
 
 
@@ -73,7 +83,7 @@ design results and design processes.
 
 A statement will do little by itself, but serves as a stake in the ground to push for initiatives that support quality research, e.g.:
 
-  * Training on preregistration (necessary for p-values to be interpretable)
+  * Training for preregistration (necessary for p-values to be interpretable)
   * Open access support and APC funds
   * Training in statistical power analysis
   * Sharing of data analysis code
@@ -91,9 +101,10 @@ Certain metrics have become ingrained and applied to the evaluation of research 
 
 We should strive to make the research we conduct high quality and reproducible. Reproducible here means that others can easily reproduce the result, barring practical limitations. Facilitating reproducibility means:
 
+* Avoiding unconstrained researcher degrees of freedom in data analysis using preregistration
 * Not presenting p-hacked results as anything but exploratory
-* Avoiding unconstrained degrees of freedom in data analysis using preregistration
 * Sharing data analysis code, ideally by posting on the internet by the time a paper is published
 * Sharing materials such as experiment code and questionnaires
 * Open access publication, so there are no barriers to fact-mining by machines nor to access by businesses, nonprofits, and researchers around the world
 
+Ethics integration with data sharing at time of application with default being shared, provid an explanation if do not
