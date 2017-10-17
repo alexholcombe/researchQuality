@@ -44,7 +44,13 @@ Current incentives have led to:
 
 http://www.nature.com/news/faculty-promotion-must-assess-reproducibility-1.22596\
 
-## Existing university policies
+## Existing policies
+
+From the *Australian Code for the Responsible Conduct of Research*:
+"The account should be complete, and, where applicable, include negative findings and results contrary to their hypotheses."
+
+From the USyd *Research Code of Conduct 2013*: "Research data should be made available for use by other researchers unless this
+is prevented by the requirements of University policy or other ethical, privacy or confidentiality considerations."
 
 ## Initiatives elsewhere to address this
 
